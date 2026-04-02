@@ -82,6 +82,7 @@ Bu deneyden sonra yapılan 5.deneyde exp3_5te model F1: 1.0 olağanüstü perfor
 <div align="center">
 <img width="789" height="490" alt="download" src="https://github.com/user-attachments/assets/2101761d-10cc-4204-abf4-0934845e9225" />
 </div>
+
 ## 4. Discussion (Tartışma)
 
 <div align="justify">
