@@ -1,5 +1,5 @@
 # YZM304 Derin Öğrenme Dersi 
-## I. Proje Ödevi: [MLP kullanarak Penguenlerin Fiziksel Özelliklerinden Türlerinin Sınıflandırılması]
+## I. Proje Ödevi: [MLP Kullanılarak Penguenlerin Fiziksel Özelliklerinden Türlerinin Sınıflandırılması]
 
 ## 1. Introduction (Giriş)
 <div align="justify">
